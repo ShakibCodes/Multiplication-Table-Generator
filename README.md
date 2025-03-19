@@ -1,4 +1,5 @@
 # Multiplication Table Generator
+**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!** 👋  
 
 A simple Python program to generate a multiplication table for any number, with a custom starting and ending range.
 
