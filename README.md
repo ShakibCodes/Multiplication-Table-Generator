@@ -6,7 +6,7 @@ A simple Python program to generate a multiplication table for any number, with 
 ## Usage
 1. Run the script:
    ```sh
-   python multiplication_table.py
+   Multiply.py
    ```
 
 ## Example Output
