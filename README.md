@@ -1,13 +1,27 @@
 # Multiplication Table Generator
-**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!** 👋  
 
-A simple Python program to generate a multiplication table for any number, with a custom starting and ending range.
+A simple Python program that generates a multiplication table for any number within a user-specified range.
+
+## Features
+✔️ Generate a multiplication table for any number.  
+✔️ Customizable start and end range.  
+✔️ Handles invalid inputs gracefully.  
+✔️ Simple and beginner-friendly Python script.
 
 ## Usage
-1. Run the script:
+1. Clone the repository:
    ```sh
-   Multiply.py
+   git clone https://github.com/ShakibCodes/Multiplication-Table-Generator.git
    ```
+2. Navigate to the project directory:
+   ```sh
+   cd Multiplication-Table-Generator
+   ```
+3. Run the script:
+   ```sh
+   python multiplication_table.py
+   ```
+4. Enter the required values when prompted.
 
 ## Example Output
 ```sh
@@ -25,7 +39,7 @@ Multiplication Table for 5 from 1 to 10:
 ```
 
 ## Error Handling
-- If non-integer values are entered, the program will display:
+- If a non-integer value is entered, the program will display:
   ```sh
   Please enter a valid integer.
   ```
@@ -36,3 +50,17 @@ Multiplication Table for 5 from 1 to 10:
 
 ## Requirements
 - Python 3.x
+
+## Contributing
+Contributions are welcome! If you’d like to improve this project:
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Commit your changes.
+4. Push to your fork and create a pull request.
+
+## License
+This project is licensed under the **MIT License** – feel free to modify and share! 🎉
+
+---
+✅ **Star this repository if you found it helpful!** ⭐
+
