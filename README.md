@@ -21,7 +21,7 @@ A simple Python program that generates a multiplication table for any number wit
    ```
 3. Run the script:
    ```sh
-   python multiplication_table.py
+   python Multiply.py
    ```
 4. Enter the required values when prompted.
 
