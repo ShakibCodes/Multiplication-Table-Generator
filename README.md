@@ -1,14 +1,14 @@
 # Multiplication Table Generator
 
-**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!** 👋  
+**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!** 
 
 A simple Python program that generates a multiplication table for any number within a user-specified range.
 
 ## Features
-✔️ Generate a multiplication table for any number.  
-✔️ Customizable start and end range.  
-✔️ Handles invalid inputs gracefully.  
-✔️ Simple and beginner-friendly Python script.
+- Generate a multiplication table for any number.  
+- Customizable start and end range.  
+- Handles invalid inputs gracefully.  
+- Simple and beginner-friendly Python script.
 
 ## Usage
 1. Clone the repository:
@@ -61,8 +61,8 @@ Contributions are welcome! If you’d like to improve this project:
 4. Push to your fork and create a pull request.
 
 ## License
-This project is licensed under the **MIT License** – feel free to modify and share! 🎉
+This project is licensed under the **MIT License**, feel free to modify and share! 
 
 ---
-✅ **Star this repository if you found it helpful!** ⭐
+**Star this repository if you found it helpful!** 
 
